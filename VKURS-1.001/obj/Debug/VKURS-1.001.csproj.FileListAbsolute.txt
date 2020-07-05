@@ -1,0 +1,10 @@
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\obj\Debug\VKURS-1.001.csprojAssemblyReference.cache
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\obj\Debug\VKURS_1._001.mainkurs.resources
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\obj\Debug\VKURS_1._001.Properties.Resources.resources
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\obj\Debug\VKURS-1.001.csproj.GenerateResource.cache
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\obj\Debug\VKURS-1.001.csproj.CoreCompileInputs.cache
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\bin\Debug\VKURS-1.001.exe.config
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\bin\Debug\VKURS-1.001.exe
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\bin\Debug\VKURS-1.001.pdb
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\obj\Debug\VKURS-1.001.exe
+C:\Users\dogpe\source\repos\VKURS-1.001\VKURS-1.001\obj\Debug\VKURS-1.001.pdb
